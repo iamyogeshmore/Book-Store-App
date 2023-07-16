@@ -31,3 +31,12 @@ build/
 
 ### VS Code ###
 .vscode/
+.git
+.idea
+.metadata
+.mvn
+bin
+loggerInfo.log
+mvnw
+mvnw.cmd
+target
